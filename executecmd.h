@@ -1,0 +1,1 @@
+int cmdexec(char **arguments,char* homepath,char histcmd[20][100],int cnt);

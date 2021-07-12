@@ -1,0 +1,1 @@
+int handlepipe(char **args,char *homepath,char histcmd[20][100],int cnt);

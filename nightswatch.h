@@ -1,0 +1,1 @@
+void nightswatch(char **arguments);

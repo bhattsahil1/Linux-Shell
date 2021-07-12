@@ -1,0 +1,1 @@
+int redirhandler(char **arguments,char *homepath,char histcmd[20][100],int cnt);
