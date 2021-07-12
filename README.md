@@ -4,7 +4,7 @@ This repository contains code for creating your own command interpreter for Linu
 It comes with support for a wide range of commands and functionalities, both standard bash commands, as well as  
 some new, custom commands.  
 
-![shell.png](https://github.com/bhattsahil1/Souk/blob/master/shell.png?raw=true)  
+![shell.png](https://github.com/bhattsahil1/Linux-Shell/blob/master/shell.png?raw=true)  
 
 
 
